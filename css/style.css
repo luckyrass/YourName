@@ -1,0 +1,13 @@
+.root {
+    /* center the root */
+    align-items: center;
+    margin: 150px auto;
+    width: 400px;
+    height: 250px;
+    border: 1px solid #dfe1e5;
+    border-radius: 10px;
+    padding: 50px;
+}
+.button {
+    margin-top: 10px;
+}
